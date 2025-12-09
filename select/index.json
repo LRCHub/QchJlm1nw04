@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Dec.",
+  "base_artist": "Kanaria",
+  "createdAt": "2025-12-09T09:50:53.616436Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Angel Carver Blues/Mellow Jazz Docent (Live Brixton Academy, London, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/01_Angel_Carver_Blues_Mellow_Jazz_Docent_(Live_Brixton_Academy,_London,_Dec._14,_19_Pavement.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Angel Carver Blues/Mellow Jazz Docent (Live at Brixton Academy, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/02_Angel_Carver_Blues_Mellow_Jazz_Docent_(Live_at_Brixton_Academy,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Box Elder (Live Brixton Academy, London, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/03_Box_Elder_(Live_Brixton_Academy,_London,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Box Elder (Live at Brixton Academy, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/04_Box_Elder_(Live_at_Brixton_Academy,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Conduit For Sale! (Live at Brixton Academy, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/05_Conduit_For_Sale!_(Live_at_Brixton_Academy,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fame Throwa (Live Brixton Academy, London, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/06_Fame_Throwa_(Live_Brixton_Academy,_London,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fame Throwa (Live at Brixton Academy, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/07_Fame_Throwa_(Live_at_Brixton_Academy,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Frontwards (Live Brixton Academy, London, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/08_Frontwards_(Live_Brixton_Academy,_London,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Frontwards (Live at Brixton Academy, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/09_Frontwards_(Live_at_Brixton_Academy,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Home (Live Brixton Academy, London, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/10_Home_(Live_Brixton_Academy,_London,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Home (Live at Brixton Academy, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/11_Home_(Live_at_Brixton_Academy,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In the Mouth a Desert (Live Brixton Academy, London, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/12_In_the_Mouth_a_Desert_(Live_Brixton_Academy,_London,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In the Mouth a Desert (Live at Brixton Academy, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/13_In_the_Mouth_a_Desert_(Live_at_Brixton_Academy,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No Life Singed Her (Live Brixton Academy, London, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/14_No_Life_Singed_Her_(Live_Brixton_Academy,_London,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Life Singed Her (Live at Brixton Academy, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/15_No_Life_Singed_Her_(Live_at_Brixton_Academy,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Perfume-V (Live Brixton Academy, London, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": true,
+      "path": "select/16_Perfume-V_(Live_Brixton_Academy,_London,_Dec._14,_1992)_Pavement.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Perfume-V (Live at Brixton Academy, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": true,
+      "path": "select/17_Perfume-V_(Live_at_Brixton_Academy,_Dec._14,_1992)_Pavement.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Summer Babe (Live Brixton Academy, London, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/18_Summer_Babe_(Live_Brixton_Academy,_London,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Summer Babe (Live at Brixton Academy, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/19_Summer_Babe_(Live_at_Brixton_Academy,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Two States (Live Brixton Academy, London, Dec. 14, 1992)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/20_Two_States_(Live_Brixton_Academy,_London,_Dec._14,_1992)_Pavement.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dec.",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_Dec._Kanaria.txt"
+    }
+  ]
+}
